@@ -141,7 +141,7 @@ void handleRoot() {
 
       <div class="tiny" id="ts">Last update: --</div>
     </div>
-    <div class="footer">REZLER SYSTEMS PRIVATE LTD</div>
+    <div class="footer">nexus</div>
 
     <script>
       async function updateData() {

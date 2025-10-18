@@ -94,4 +94,4 @@ Open **`SoilBMP280_AP.ino`** and review:
 
 ---
 
-**© REZLER SYSTEMS PRIVATE LTD** – Use at your own risk. Keep sensors dry as recommended by their datasheets.
+– Use at your own risk. Keep sensors dry as recommended by their datasheets.
